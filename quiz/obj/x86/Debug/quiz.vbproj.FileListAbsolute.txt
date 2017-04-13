@@ -1,0 +1,65 @@
+C:\Users\User\AppData\Local\Temporary Projects\quiz\bin\Debug\quiz.exe
+C:\Users\User\AppData\Local\Temporary Projects\quiz\bin\Debug\quiz.pdb
+C:\Users\User\AppData\Local\Temporary Projects\quiz\bin\Debug\quiz.xml
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\quiz.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\quiz.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\quiz.exe
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\quiz.xml
+C:\Users\User\AppData\Local\Temporary Projects\quiz\obj\x86\Debug\quiz.pdb
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\quiz.exe
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\quiz.xml
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\quiz.pdb
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\bin\Debug\quiz.xml
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\quiz.Form1.resources
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\quiz.Resources.resources
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Light Jess Ortiz\Ortiz Light Jess C\quiz\quiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.exe
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.xml
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.pdb
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\bin\Debug\quiz.xml
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.Form1.resources
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.Resources.resources
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Francis\Desktop\Lectures\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.exe
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.xml
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.pdb
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\bin\Debug\quiz.xml
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.Form1.resources
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\quiz.Resources.resources
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Francis\Desktop\Lectures2014\vb.net\vb.net\answer to quiz ifthenelse\quiz\quiz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\quiz\quiz\obj\x86\Debug\quiz.exe
+D:\quiz\quiz\obj\x86\Debug\quiz.xml
+D:\quiz\quiz\obj\x86\Debug\quiz.pdb
+D:\quiz\quiz\bin\Debug\quiz.exe
+D:\quiz\quiz\bin\Debug\quiz.pdb
+D:\quiz\quiz\bin\Debug\quiz.xml
+D:\quiz\quiz\obj\x86\Debug\quiz.Form1.resources
+D:\quiz\quiz\obj\x86\Debug\quiz.Resources.resources
+D:\quiz\quiz\obj\x86\Debug\quiz.vbproj.GenerateResource.Cache
+E:\VB programs\quiz\quiz\obj\x86\Debug\quiz.exe
+E:\VB programs\quiz\quiz\obj\x86\Debug\quiz.xml
+E:\VB programs\quiz\quiz\obj\x86\Debug\quiz.pdb
+E:\VB programs\quiz\quiz\bin\Debug\quiz.exe
+E:\VB programs\quiz\quiz\bin\Debug\quiz.pdb
+E:\VB programs\quiz\quiz\bin\Debug\quiz.xml
+E:\VB programs\quiz\quiz\obj\x86\Debug\quiz.Form1.resources
+E:\VB programs\quiz\quiz\obj\x86\Debug\quiz.Resources.resources
+E:\VB programs\quiz\quiz\obj\x86\Debug\quiz.vbproj.GenerateResource.Cache
+F:\New folder (2)\quiz\quiz\obj\x86\Debug\quiz.exe
+F:\New folder (2)\quiz\quiz\obj\x86\Debug\quiz.xml
+F:\New folder (2)\quiz\quiz\obj\x86\Debug\quiz.pdb
